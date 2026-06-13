@@ -15,13 +15,13 @@
 - Java
 - SQL
 - JavaScript
-- Tailwind CSS
 
  Web Development
 - HTML
 - CSS
 - React
 - Node.js
+- Tailwind CSS
 
  Databases
 - MySQL
