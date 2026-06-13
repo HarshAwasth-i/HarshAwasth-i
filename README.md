@@ -15,6 +15,7 @@
 - Java
 - SQL
 - JavaScript
+- Tailwind CSS
 
  Web Development
 - HTML
