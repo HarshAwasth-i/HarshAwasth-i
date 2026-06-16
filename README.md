@@ -53,7 +53,7 @@
 
  AI Resume Analyzer
 
- - An intelligent web application that analyzes resumes and compares them with job descriptions. The system evaluates skill     matching, calculates compatibility scores, identifies missing keywords, and provides suggestions to improve ATS              performance  and interview chances.
+ - An intelligent web application that analyzes resumes and compares them with job descriptions. The system evaluates skill matching, calculates compatibility scores,         identifies missing keywords, and provides suggestions to improve ATS performance  and interview chances.
  - Tech Stack:** React.js, Node.js, Express.js, Python, NLP, Machine Learning.
   
 
