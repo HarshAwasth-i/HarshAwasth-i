@@ -65,7 +65,7 @@
 - Solving DSA problems daily
 - Improving SQL skills
 - Building full-stack projects
-- Preparing for placements
+- Preparing for placements in the present time being
 
 ---
 
