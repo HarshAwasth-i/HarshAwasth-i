@@ -15,6 +15,7 @@
 - Java
 - SQL
 - JavaScript
+- Python
 
  Web Development
 - HTML
