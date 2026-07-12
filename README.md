@@ -43,11 +43,6 @@
 
 ## 🚀 Projects
 
- # Amazon Clone
-- Built using HTML, CSS, and JavaScript
-- Responsive UI
-- Product listing and cart functionality
-
 # Spam Email Detection
 - Machine Learning based email classification system
 - Used Python and Scikit-Learn
