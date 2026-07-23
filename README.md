@@ -55,9 +55,9 @@ I enjoy building real-world full-stack applications, solving Data Structures & A
 
 ## 🚀 Featured Projects
 
-### 💼 DevSync (In Progress)
+### 💼 DevSync – Developer Collaboration Platform *(In Progress)*
 
-A modern full-stack developer collaboration platform where developers can discover opportunities, manage profiles, and connect efficiently.
+A modern full-stack platform where developers can create profiles, discover opportunities, and connect with other developers.
 
 **Tech Stack**
 
@@ -70,10 +70,36 @@ A modern full-stack developer collaboration platform where developers can discov
 
 **Current Features**
 
-* User Authentication (Register/Login)
-* Protected Routes
-* Responsive UI
-* Backend API Integration
+* Secure User Authentication (Register/Login)
+* Protected Routes using JWT
+* Responsive UI with Tailwind CSS
+* RESTful Backend APIs
+* MySQL Database Integration
+* Scalable Project Structure
+
+---
+
+### 💼 Job Portal 
+
+A full-stack job portal that enables users to browse job listings, authenticate securely, and manage their profiles. The application is designed with a responsive interface and a scalable backend architecture.
+
+**Tech Stack**
+
+* React.js
+* Node.js
+* Express.js
+* MySQL
+* JWT Authentication
+* Tailwind CSS
+
+**Current Features**
+
+* User Registration & Login
+* Secure JWT Authentication
+* Job Listings Interface
+* Protected Dashboard
+* Responsive Design
+* REST API Integration
 * MySQL Database Connectivity
 
 ---
@@ -104,23 +130,10 @@ An AI-powered web application that analyzes resumes against job descriptions to 
 
 ---
 
-### 📧 Spam Email Detection
-
-A Machine Learning project that classifies emails as Spam or Ham using Natural Language Processing.
-
-**Tech Stack**
-
-* Python
-* Scikit-learn
-* NLP
-* TF-IDF
-
----
-
 ## 📈 Coding Profiles
 
 * 💻 LeetCode: https://leetcode.com/u/Harsh_Awasthii/
-* 🔗 LinkedIn: [www.linkedin.com/in/harsh-awasthi-181761331](http://www.linkedin.com/in/harsh-awasthi-181761331)
+* 🔗 LinkedIn: [www.linkedin.com/in/harsh-awasthi-181761331]
 
 ---
 
@@ -129,7 +142,7 @@ A Machine Learning project that classifies emails as Spam or Ham using Natural L
 * ✅ Solving LeetCode problems daily
 * ✅ Strengthening DSA for placements
 * ✅ Advanced SQL practice
-* ✅ Building full-stack MERN applications
+* ✅ Building scalable full-stack applications
 * ✅ Learning Docker
 * ✅ Improving GitHub with real-world projects
 
@@ -137,19 +150,19 @@ A Machine Learning project that classifies emails as Spam or Ham using Natural L
 
 ## 📊 GitHub Goals
 
-* 🚀 Build impactful full-stack projects
+* 🚀 Build impactful full-stack applications
 * 💡 Write clean and maintainable code
 * 📖 Learn new technologies consistently
 * 🤝 Contribute to open-source projects
-* 📈 Keep improving every day
+* 📈 Grow as a Software Engineer
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [harshawasthi2023@gmail.com](mailto:harshawasthi2023@gmail.com)
+📧 **Email:** (harshawasthi2023@gmail.com)
 
-💼 **LinkedIn:** [www.linkedin.com/in/harsh-awasthi-181761331](http://www.linkedin.com/in/harsh-awasthi-181761331)
+💼 **LinkedIn:** (http://www.linkedin.com/in/harsh-awasthi-181761331)
 
 💻 **LeetCode:** https://leetcode.com/u/Harsh_Awasthii/
 
