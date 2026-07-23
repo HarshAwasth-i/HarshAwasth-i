@@ -166,6 +166,8 @@ An AI-powered web application that analyzes resumes against job descriptions to 
 
 💻 **LeetCode:** https://leetcode.com/u/Harsh_Awasthii/
 
+Portfolio: **  https://portfolio-f5phkfspr-1harsh1.vercel.app/
+
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
