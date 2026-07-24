@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Awasthi 👋
 
-## 🚀 About Me
+## 🚀 About Me 
 
 🎓 Final-year B.Tech Computer Science student passionate about Software Development and Problem Solving.
 
@@ -32,6 +32,7 @@ I enjoy building real-world full-stack applications, solving Data Structures & A
 * Node.js
 * Express.js
 * Tailwind CSS
+* UI Automation
 
 ### 🗄️ Databases
 
