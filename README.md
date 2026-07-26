@@ -1,174 +1,188 @@
-# Hi there, I'm Harsh Awasthi 👋
+# Hi there, I'm Harsh Awasthi 
 
-## 🚀 About Me 
-
-🎓 Final-year B.Tech Computer Science student passionate about Software Development and Problem Solving.
-
-I enjoy building real-world full-stack applications, solving Data Structures & Algorithms problems, and continuously improving my development skills. I'm currently preparing for Software Developer roles while working on projects that strengthen both my backend and frontend expertise.
-
-* 💻 Interested in Full-Stack Development & Software Engineering
-* 🌱 Currently learning Docker, Backend Development, and System Design fundamentals
-* 📚 Practicing DSA and SQL regularly
-* 🚀 Building real-world projects using the MERN stack
-* 🎯 Goal: Secure a Software Developer (SDE) role
+<p align="center">
+  <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solver</h3>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+🎓 Final-year B.Tech Computer Science student passionate about building scalable software and solving real-world problems.
+
+I enjoy developing full-stack applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. I'm currently preparing for Software Developer (SDE) roles while building production-ready applications.
+
+- 💻 Passionate about Full-Stack Development
+- 🌱 Currently learning Docker & System Design
+- 📚 Practicing DSA and SQL daily
+- 🚀 Building real-world production-ready projects
+- 🎯 Seeking Software Developer (SDE) opportunities
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-* C++
-* Java
-* Python
-* JavaScript
-* SQL
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-* HTML
-* CSS
-* React.js
-* Node.js
-* Express.js
-* Tailwind CSS
-* UI Automation
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
 
-### 🗄️ Databases
+### ⚙️ Backend
 
-* MySQL
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### 🗄️ Database
+
+- MySQL
 
 ### 🤖 Machine Learning
 
-* Scikit-learn
-* NLP
-* TF-IDF
-* spaCy
+- Python
+- Scikit-learn
+- NLP
+- TF-IDF
+- spaCy
 
-### ⚙️ Tools & Technologies
+### 🛠️ Tools
 
-* Git
-* GitHub
-* VS Code
-* Docker (Learning)
-
----
-
-## 🚀 Featured Projects
-
-### 💼 DevSync – Developer Collaboration Platform *(In Progress)*
-
-A modern full-stack platform where developers can create profiles, discover opportunities, and connect with other developers.
-
-**Tech Stack**
-
-* React.js
-* Node.js
-* Express.js
-* MySQL
-* JWT Authentication
-* Tailwind CSS
-
-**Current Features**
-
-* Secure User Authentication (Register/Login)
-* Protected Routes using JWT
-* Responsive UI with Tailwind CSS
-* RESTful Backend APIs
-* MySQL Database Integration
-* Scalable Project Structure
+- Git
+- GitHub
+- VS Code
+- Docker (Learning)
+- Postman
 
 ---
 
-### 💼 Job Portal 
+# 🚀 Featured Projects
 
-A full-stack job portal that enables users to browse job listings, authenticate securely, and manage their profiles. The application is designed with a responsive interface and a scalable backend architecture.
+## 💼 DevSync — Full-Stack Project Management Platform ⭐
 
-**Tech Stack**
+A modern project management platform inspired by Trello and Jira that helps teams organize projects, manage tasks, collaborate, and monitor progress through an interactive dashboard.
 
-* React.js
-* Node.js
-* Express.js
-* MySQL
-* JWT Authentication
-* Tailwind CSS
+### ✨ Features
 
-**Current Features**
+- 🔐 JWT Authentication
+- 📊 Dashboard Analytics
+- 📁 Project Management
+- ✅ Task Tracking
+- 📋 Kanban Board
+- 👥 Team Collaboration
+- 🔔 Activity Timeline
+- 🌙 Responsive UI
 
-* User Registration & Login
-* Secure JWT Authentication
-* Job Listings Interface
-* Protected Dashboard
-* Responsive Design
-* REST API Integration
-* MySQL Database Connectivity
+### 🛠️ Tech Stack
 
----
+React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Railway • Render • Vercel
 
-### 📄 AI Resume Analyzer
+**🌐 Live Demo**
 
-An AI-powered web application that analyzes resumes against job descriptions to improve ATS compatibility.
+https://dev-sync-roan.vercel.app
 
-**Features**
+**📂 Repository**
 
-* Resume Parsing
-* Skill Extraction using NLP
-* Job Description Matching
-* Missing Skill Detection
-* ATS Compatibility Score
-* Resume Improvement Suggestions
-
-**Tech Stack**
-
-* React.js
-* Node.js
-* Express.js
-* Python
-* NLP
-* Machine Learning
-* TF-IDF
-* spaCy
+https://github.com/HarshAwasth-i/DevSync
 
 ---
 
-## 📈 Coding Profiles
+## 📄 AI Resume Analyzer
 
-* 💻 LeetCode: https://leetcode.com/u/Harsh_Awasthii/
-* 🔗 LinkedIn: [www.linkedin.com/in/harsh-awasthi-181761331]
+An AI-powered Resume Analyzer that evaluates resumes against job descriptions using Natural Language Processing to improve ATS compatibility.
 
----
+### Features
 
-## 📚 Currently Working On
+- Resume Parsing
+- Skill Extraction
+- ATS Score Prediction
+- Missing Skill Detection
+- Resume Matching
+- Resume Suggestions
 
-* ✅ Solving LeetCode problems daily
-* ✅ Strengthening DSA for placements
-* ✅ Advanced SQL practice
-* ✅ Building scalable full-stack applications
-* ✅ Learning Docker
-* ✅ Improving GitHub with real-world projects
+### Tech Stack
 
----
-
-## 📊 GitHub Goals
-
-* 🚀 Build impactful full-stack applications
-* 💡 Write clean and maintainable code
-* 📖 Learn new technologies consistently
-* 🤝 Contribute to open-source projects
-* 📈 Grow as a Software Engineer
+Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
 
 ---
 
-## 📫 Connect With Me
+## 💼 Job Portal
 
-📧 **Email:** (harshawasthi2023@gmail.com)
+A responsive full-stack Job Portal featuring authentication, protected routes, and job management.
 
-💼 **LinkedIn:** (http://www.linkedin.com/in/harsh-awasthi-181761331)
+### Tech Stack
 
-💻 **LeetCode:** https://leetcode.com/u/Harsh_Awasthii/
-
-Portfolio: **  https://portfolio-f5phkfspr-1harsh1.vercel.app/
+React • Node.js • Express • MySQL • JWT • Tailwind CSS
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+# 📈 Coding Profiles
+
+### 💻 LeetCode
+
+https://leetcode.com/u/Harsh_Awasthii/
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/harsh-awasthi-181761331
+
+---
+
+# 📚 Currently Learning
+
+- Docker
+- System Design
+- Backend Best Practices
+- Advanced SQL
+- Low-Level Design
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Secure a Software Developer role
+- 📚 Solve 500+ LeetCode problems
+- 💻 Build impactful Full-Stack applications
+- 🤝 Contribute to Open Source
+- 📈 Continuously improve as a Software Engineer
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+harshawasthi2023@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/harsh-awasthi-181761331
+
+💻 **LeetCode**
+
+https://leetcode.com/u/Harsh_Awasthii/
+
+🌐 **Portfolio**
+
+https://portfolio-f5phkfspr-1harsh1.vercel.app/
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+Thanks for visiting my profile ❤️
+
+</p>
