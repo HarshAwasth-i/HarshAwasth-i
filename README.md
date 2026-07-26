@@ -66,7 +66,6 @@ I enjoy developing full-stack applications, solving Data Structures & Algorithms
 - Postman
 
 ---
-
 # 🚀 Featured Projects
 
 ## 💼 DevSync — Full-Stack Project Management Platform ⭐
@@ -98,34 +97,59 @@ https://github.com/HarshAwasth-i/DevSync
 
 ---
 
+## 💼 Job Portal — Full-Stack Recruitment Platform ⭐
+
+A modern full-stack job portal that enables job seekers to discover opportunities and securely manage their profiles while providing a responsive and user-friendly experience.
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 👤 User Registration & Login
+- 💼 Browse Job Listings
+- 📄 Job Details Page
+- 📊 Protected Dashboard
+- 📱 Fully Responsive UI
+- 🔗 REST API Integration
+- 🗄️ MySQL Database Connectivity
+
+### 🛠️ Tech Stack
+
+React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Render • Vercel
+
+**🌐 Live Demo**
+
+_Paste your deployed Job Portal URL here_
+
+**📂 Repository**
+
+_Paste your GitHub repository URL here_
+
+---
+
 ## 📄 AI Resume Analyzer
 
 An AI-powered Resume Analyzer that evaluates resumes against job descriptions using Natural Language Processing to improve ATS compatibility.
 
-### Features
+### ✨ Features
 
-- Resume Parsing
-- Skill Extraction
-- ATS Score Prediction
-- Missing Skill Detection
-- Resume Matching
-- Resume Suggestions
+- 📄 Resume Parsing
+- 🎯 ATS Score Prediction
+- 🧠 Skill Extraction
+- 📊 Resume & Job Description Matching
+- ⚠️ Missing Skill Detection
+- 💡 Resume Improvement Suggestions
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
 
----
+**📂 Repository**
 
-## 💼 Job Portal
+_Paste your Resume Analyzer GitHub repository here_
 
-A responsive full-stack Job Portal featuring authentication, protected routes, and job management.
+**🌐 Live Demo**
 
-### Tech Stack
-
-React • Node.js • Express • MySQL • JWT • Tailwind CSS
-
----
+_Paste your Resume Analyzer deployment (if available)_
 
 # 📈 Coding Profiles
 
