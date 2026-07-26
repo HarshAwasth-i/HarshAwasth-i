@@ -122,7 +122,7 @@ React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Render �
 
 **📂 Repository**
 
-_Paste your GitHub repository URL here_
+(https://github.com/HarshAwasth-i/Job-portal)
 
 ---
 
@@ -145,11 +145,9 @@ Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
 
 **📂 Repository**
 
-_Paste your Resume Analyzer GitHub repository here_
+(https://github.com/HarshAwasth-i/Resume_Analyzer)
 
-**🌐 Live Demo**
 
-_Paste your Resume Analyzer deployment (if available)_
 
 # 📈 Coding Profiles
 
