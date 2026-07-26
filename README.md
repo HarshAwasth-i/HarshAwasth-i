@@ -118,7 +118,7 @@ React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Render �
 
 **🌐 Live Demo**
 
-_Paste your deployed Job Portal URL here_
+(https://job-portal-drab-xi.vercel.app/)
 
 **📂 Repository**
 
