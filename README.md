@@ -148,6 +148,11 @@ Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
 (https://github.com/HarshAwasth-i/Resume_Analyzer)
 
 
+**🌐 Live Demo**
+
+https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/
+
+
 
 # 📈 Coding Profiles
 
