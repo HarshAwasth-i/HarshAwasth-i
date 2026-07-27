@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 About Me
+# ! About Me
 
 🎓 Final-year B.Tech Computer Science student passionate about building scalable software and solving real-world problems.
 
@@ -66,7 +66,7 @@ I enjoy developing full-stack applications, solving Data Structures & Algorithms
 - Postman
 
 ---
-# 🚀 Featured Projects
+# || Featured Projects ||
 
 ## 💼 DevSync — Full-Stack Project Management Platform ⭐
 
