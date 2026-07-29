@@ -1,7 +1,7 @@
 # Hi there, I'm Harsh Awasthi 
 
 <p align="center">
-  <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solver</h3>
+  <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solving ability</h3>
 </p>
 
 ---
