@@ -118,11 +118,11 @@ React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Render �
 
 **🌐 Live Demo**
 
-(https://job-portal-drab-xi.vercel.app/)
+https://job-portal-drab-xi.vercel.app/
 
 **📂 Repository**
 
-(https://github.com/HarshAwasth-i/Job-portal)
+https://github.com/HarshAwasth-i/Job-portal
 
 ---
 
@@ -145,7 +145,7 @@ Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
 
 **📂 Repository**
 
-(https://github.com/HarshAwasth-i/Resume_Analyzer)
+https://github.com/HarshAwasth-i/Resume_Analyzer
 
 
 **🌐 Live Demo**
