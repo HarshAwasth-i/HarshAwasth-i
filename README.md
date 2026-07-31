@@ -171,6 +171,7 @@ https://www.linkedin.com/in/harsh-awasthi-181761331
 - System Design
 - Backend Practices
 - Advanced SQL
+- Basics of Oops,Cn,Os
   
 ---
 
