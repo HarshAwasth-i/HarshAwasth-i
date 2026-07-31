@@ -168,12 +168,10 @@ https://www.linkedin.com/in/harsh-awasthi-181761331
 
 # 📚 Currently Learning
 
-- Docker
 - System Design
-- Backend Best Practices
+- Backend Practices
 - Advanced SQL
-- Low-Level Design
-
+  
 ---
 
 # 🎯 2026 Goals
