@@ -1,4 +1,4 @@
-<h1 # Hi there, I'm Harsh Awasthi </h1>
+ # Hi there, I'm Harsh Awasthi 
 
 <p align="center">
   <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solving ability</h3>
