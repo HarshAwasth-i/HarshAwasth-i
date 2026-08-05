@@ -13,7 +13,6 @@
 I enjoy developing full-stack applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. I'm currently preparing for Software Developer (SDE) roles while building production-ready applications.
 
 - 💻 Passionate about Full-Stack Development
-- 🌱 Currently learning Docker & System Design
 - 📚 Practicing DSA and SQL daily
 - 🚀 Building real-world production-ready projects
 - 🎯 Seeking Software Developer (SDE) opportunities
