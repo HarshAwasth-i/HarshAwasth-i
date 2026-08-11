@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Harsh Awasthi </h1>
+<h1 align="center">Hi there, I'm Harsh Awasthi 👋</h1>
 <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solver</h3>
 
 <br/>
 
 ```yaml
-Name: Harsh Awasthi
-who am i: Final-Year B.Tech Student, Computer Science & Engineering
-location: Lucknow,India
+name: Harsh Awasthi
+whoami: Final-Year B.Tech Student, Computer Science & Engineering
+location: India
 status: "Seeking Software Developer (SDE) opportunities"
 
 featured_projects:
@@ -43,6 +43,12 @@ goals_2026:
   <a href="https://leetcode.com/u/Harsh_Awasthii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://portfolio-f5phkfspr-1harsh1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:harshawasthi2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshAwasth-i/HarshAwasth-i/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -85,8 +91,8 @@ An NLP-powered tool that scores resumes against job descriptions for ATS compati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=radical&hide_border=true" /> -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
