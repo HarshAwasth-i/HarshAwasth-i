@@ -1,213 +1,105 @@
- # Hi there, I'm Harsh Awasthi 
+<h1 align="center">Hi there, I'm Harsh Awasthi 👋</h1>
+<h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solver</h3>
+
+<br/>
+
+```yaml
+name: Harsh Awasthi
+whoami: Final-Year B.Tech Student, Computer Science & Engineering
+location: India
+status: "Seeking Software Developer (SDE) opportunities"
+
+featured_projects:
+  - "DevSync — Full-stack Trello/Jira-style project management platform"
+  - "Job Portal — Full-stack recruitment platform with JWT auth"
+  - "AI Resume Analyzer — NLP-powered resume-to-JD matcher with ATS scoring"
+
+fields_of_interest:
+  - "Full-Stack Development"
+  - "System Design"
+  - "Applied Machine Learning / NLP"
+
+technical_background:
+  languages: ["C++", "Java", "Python", "JavaScript", "SQL"]
+  frontend:  ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Vite"]
+  backend:   ["Node.js", "Express.js", "REST APIs", "JWT Auth"]
+  database:  ["MySQL"]
+  ml:        ["Scikit-learn", "NLP", "TF-IDF", "spaCy"]
+  tools:     ["Git", "GitHub", "Docker (learning)", "Postman"]
+
+currently_learning: ["System Design", "Advanced SQL", "OOP", "CN", "OS"]
+
+goals_2026:
+  - "Secure a Software Developer role"
+  - "Solve 500+ LeetCode problems"
+  - "Ship impactful full-stack applications"
+  - "Contribute to Open Source"
+```
+
+<br/>
 
 <p align="center">
-  <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solving ability</h3>
+  <a href="https://www.linkedin.com/in/harsh-awasthi-181761331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Harsh_Awasthii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://portfolio-f5phkfspr-1harsh1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:harshawasthi2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-# ! About Me
+## 💼 Featured Projects
 
-🎓 Final-year B.Tech Computer Science student passionate about building scalable software and solving real-world problems.
+### ⭐ DevSync — Full-Stack Project Management Platform
+A Trello/Jira-inspired platform for teams to organize projects, track tasks, and monitor progress via an interactive dashboard.
 
-I enjoy developing full-stack applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. I'm currently preparing for Software Developer (SDE) roles while building production-ready applications.
+`React` `Node.js` `Express.js` `MySQL` `JWT` `Tailwind CSS`
 
-- 💻 Passionate about Full-Stack Development
-- 📚 Practicing DSA and SQL daily
-- 🚀 Building real-world production-ready projects
-- 🎯 Seeking Software Developer (SDE) opportunities
+**🔐** JWT Auth · **📊** Dashboard Analytics · **📋** Kanban Board · **🔔** Activity Timeline
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-- C++
-- Java
-- Python
-- JavaScript
-- SQL
-
-### 🌐 Frontend
-
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### 🗄️ Database
-
-- MySQL
-
-### 🤖 Machine Learning
-
-- Python
-- Scikit-learn
-- NLP
-- TF-IDF
-- spaCy
-
-### 🛠️ Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker (Learning)
-- Postman
-
----
-# || Featured Projects ||
-
-## 💼 DevSync — Full-Stack Project Management Platform ⭐
-
-A modern project management platform inspired by Trello and Jira that helps teams organize projects, manage tasks, collaborate, and monitor progress through an interactive dashboard.
-
-### ✨ Features
-
-- 🔐 JWT Authentication
-- 📊 Dashboard Analytics
-- 📁 Project Management
-- ✅ Task Tracking
-- 📋 Kanban Board
-- 👥 Team Collaboration
-- 🔔 Activity Timeline
-- 🌙 Responsive UI
-
-### 🛠️ Tech Stack
-
-React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Railway • Render • Vercel
-
-**🌐 Live Demo**
-
-https://dev-sync-roan.vercel.app
-
-**📂 Repository**
-
-https://github.com/HarshAwasth-i/DevSync
+[Live Demo](https://dev-sync-roan.vercel.app) · [Repository](https://github.com/HarshAwasth-i/DevSync)
 
 ---
 
-## 💼 Job Portal — Full-Stack Recruitment Platform ⭐
+### ⭐ Job Portal — Full-Stack Recruitment Platform
+A responsive job portal enabling seekers to browse listings and securely manage profiles end-to-end.
 
-A modern full-stack job portal that enables job seekers to discover opportunities and securely manage their profiles while providing a responsive and user-friendly experience.
+`React` `Node.js` `Express.js` `MySQL` `JWT` `Tailwind CSS`
 
-### ✨ Features
+**🔐** Auth & Protected Dashboard · **💼** Job Listings & Details · **🔗** REST API Integration
 
-- 🔐 JWT Authentication
-- 👤 User Registration & Login
-- 💼 Browse Job Listings
-- 📄 Job Details Page
-- 📊 Protected Dashboard
-- 📱 Fully Responsive UI
-- 🔗 REST API Integration
-- 🗄️ MySQL Database Connectivity
-
-### 🛠️ Tech Stack
-
-React • Node.js • Express.js • MySQL • JWT • Tailwind CSS • Render • Vercel
-
-**🌐 Live Demo**
-
-https://job-portal-drab-xi.vercel.app/
-
-**📂 Repository**
-
-https://github.com/HarshAwasth-i/Job-portal
+[Live Demo](https://job-portal-drab-xi.vercel.app/) · [Repository](https://github.com/HarshAwasth-i/Job-portal)
 
 ---
 
-## 📄 AI Resume Analyzer
+### 🧠 AI Resume Analyzer
+An NLP-powered tool that scores resumes against job descriptions for ATS compatibility and flags missing skills.
 
-An AI-powered Resume Analyzer that evaluates resumes against job descriptions using Natural Language Processing to improve ATS compatibility.
+`Python` `Flask` `React` `NLP` `TF-IDF` `spaCy`
 
-### ✨ Features
+**🎯** ATS Score Prediction · **🧠** Skill Extraction · **💡** Improvement Suggestions
 
-- 📄 Resume Parsing
-- 🎯 ATS Score Prediction
-- 🧠 Skill Extraction
-- 📊 Resume & Job Description Matching
-- ⚠️ Missing Skill Detection
-- 💡 Resume Improvement Suggestions
-
-### 🛠️ Tech Stack
-
-Python • Flask • React • NLP • TF-IDF • spaCy • Machine Learning
-
-**📂 Repository**
-
-https://github.com/HarshAwasth-i/Resume_Analyzer
-
-
-**🌐 Live Demo**
-
-https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/
-
-
-
-# 📈 Coding Profiles
-
-### 💻 LeetCode
-
-https://leetcode.com/u/Harsh_Awasthii/
-
-### 💼 LinkedIn
-
-https://www.linkedin.com/in/harsh-awasthi-181761331
+[Repository](https://github.com/HarshAwasth-i/Resume_Analyzer) · [Live Demo](https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/)
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Stats
 
-- System Design
-- Backend Practices
-- Advanced SQL
-- Basics of Oops,Cn,Os
-  
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-# 🎯 2026 Goals
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAwasth-i&theme=radical&hide_border=true" />
+</p>
 
-- 🚀 Secure a Software Developer role
-- 📚 Solve 500+ LeetCode problems
-- 💻 Build impactful Full-Stack applications
-- 🤝 Contribute to Open Source
-- 📈 Continuously improve as a Software Engineer
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-harshawasthi2023@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/harsh-awasthi-181761331
-
-💻 **LeetCode**
-
-https://leetcode.com/u/Harsh_Awasthii/
-
-🌐 **Portfolio**
-
-https://portfolio-f5phkfspr-1harsh1.vercel.app/
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshAwasth-i&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
+⭐ If you like my projects, consider giving them a star!<br/>
 Thanks for visiting my profile ❤️
-
 </p>
