@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Harsh Awasthi 👋</h1>
+<h1 align="center">Hi there, I'm Harsh Awasthi </h1>
 <h3 align="center">Aspiring Software Developer | Full-Stack Developer | Problem Solver</h3>
 
 <br/>
 
 ```yaml
-name: Harsh Awasthi
-whoami: Final-Year B.Tech Student, Computer Science & Engineering
-location: India
+Name: Harsh Awasthi
+who am i: Final-Year B.Tech Student, Computer Science & Engineering
+location: Lucknow,India
 status: "Seeking Software Developer (SDE) opportunities"
 
 featured_projects:
