@@ -4,20 +4,19 @@
 <br/>
 
 ```yaml
-name: Harsh Awasthi
-whoami: Final-Year B.Tech Student, Computer Science & Engineering
-location: India
-status: "Seeking Software Developer (SDE) opportunities"
+Name: Harsh Awasthi
+Who am i: Final-Year B.Tech Student, Computer Science & Engineering
+Location: India
+Status: "Seeking Software Developer (SDE) opportunities"
 
-featured_projects:
+Featured_projects:
   - "DevSync — Full-stack Trello/Jira-style project management platform"
   - "Job Portal — Full-stack recruitment platform with JWT auth"
   - "AI Resume Analyzer — NLP-powered resume-to-JD matcher with ATS scoring"
 
-fields_of_interest:
+Fields_of_interest:
   - "Full-Stack Development"
   - "System Design"
-  - "Applied Machine Learning / NLP"
 
 technical_background:
   languages: ["C++", "Java", "Python", "JavaScript", "SQL"]
