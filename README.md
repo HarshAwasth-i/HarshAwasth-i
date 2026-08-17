@@ -23,8 +23,8 @@ technical_background:
   frontend:  ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Vite"]
   backend:   ["Node.js", "Express.js", "REST APIs", "JWT Auth"]
   database:  ["MySQL"]
-  ml:        ["Scikit-learn", "NLP", "TF-IDF", "spaCy"]
-  tools:     ["Git", "GitHub", "Docker (learning)", "Postman"]
+  ml:        ["Scikit-learn", "NLP", "spaCy"]
+  tools:     ["Git", "GitHub", "Postman"]
 
 currently_learning: ["System Design", "Advanced SQL", "OOP", "CN", "OS"]
 
