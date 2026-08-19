@@ -91,7 +91,8 @@ An NLP-powered tool that scores resumes against job descriptions for ATS compati
 
 <!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/
+?username=HarshAwasth-i&layout=compact&theme=radical&hide_border=true" />
 </p> -->
 
 <!-- <p align="center">
