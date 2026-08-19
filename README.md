@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Awasthi </h1>
-<h3 align="center">Aspiring Software Developer Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Aspiring Software Developer Engineer | Full-Stack Developer | Problem Solver </h3>
 
 <br/> 
 
