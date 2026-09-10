@@ -94,15 +94,7 @@ A responsive job portal enabling seekers to browse listings and securely manage 
 
 ---
 
-### 🧠 AI Resume Analyzer
 
-An NLP-powered tool that scores resumes against job descriptions for ATS compatibility and flags missing skills.
-
-`Python` `Flask` `React` `NLP` `TF-IDF` `spaCy`
-
-**🎯** ATS Score Prediction · **🧠** Skill Extraction · **💡** Improvement Suggestions
-
-[Repository](https://github.com/HarshAwasth-i/Resume_Analyzer) · [Live Demo](https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/)
 
 ---
 
