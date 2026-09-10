@@ -94,18 +94,19 @@ A responsive job portal enabling seekers to browse listings and securely manage 
 
 ---
 
-### ⭐ TaskPulse — Full-Stack Task Management Platform
+### ⭐ TaskPulse — Full-Stack Task Management & Kanban Workspace
 
-A full-stack task management application designed to help users organize tasks, track progress, and manage workflows efficiently through a clean and responsive interface.
+A production-deployed full-stack task management platform for organizing projects, managing tasks, and tracking productivity through an interactive Kanban workspace and dashboard.
 
-**Tech:** `React` `Node.js` `Express.js` `MySQL` `JWT` `Tailwind CSS`
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Mongoose`
 
-* 📋 Create, manage, update, and organize tasks efficiently
-* 🔐 Secure JWT-based authentication with protected routes
-* 📊 Productivity-focused dashboard for tracking task progress
-* 🔗 RESTful APIs connecting the frontend and backend
+* 🔐 JWT authentication with protected routes and secure password hashing
+* 📋 Task & project management with search, filters, priorities, and status tracking
+* 🧩 Interactive Kanban board with drag & drop and persistent database synchronization
+* 📊 Dashboard analytics and activity tracking for monitoring project progress
 
-**[GitHub Repository](https://github.com/HarshAwasth-i/TaskPulse)**
+**[Live Demo](https://developer-practice-delta.vercel.app/)** · **[GitHub Repository](https://github.com/HarshAwasth-i/developer-practice)**
+
 
 
 ---
