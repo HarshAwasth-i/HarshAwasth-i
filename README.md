@@ -94,6 +94,18 @@ A responsive job portal enabling seekers to browse listings and securely manage 
 
 ---
 
+### ⭐ TaskPulse — Full-Stack Task Management Platform
+
+A full-stack task management application designed to help users organize tasks, track progress, and manage workflows efficiently through a clean and responsive interface.
+
+**Tech:** `React` `Node.js` `Express.js` `MySQL` `JWT` `Tailwind CSS`
+
+* 📋 Create, manage, update, and organize tasks efficiently
+* 🔐 Secure JWT-based authentication with protected routes
+* 📊 Productivity-focused dashboard for tracking task progress
+* 🔗 RESTful APIs connecting the frontend and backend
+
+**[GitHub Repository](https://github.com/HarshAwasth-i/TaskPulse)**
 
 
 ---
