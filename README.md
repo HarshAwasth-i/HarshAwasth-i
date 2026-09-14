@@ -110,10 +110,7 @@ A privacy-first Instagram analytics dashboard that turns your own export data in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=cfcfcf&text_color=c9c9c9&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAwasth-i&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=cfcfcf&currStreakLabel=ffffff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9&cache_seconds=86400" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAwasth-i&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=cfcfcf&currStreakLabel=ffffff" width="60%" />
 
 </div>
 
