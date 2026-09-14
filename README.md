@@ -32,7 +32,7 @@ Currently_learning:
 
 Goals_2026:
   - Land a Software Developer role
-  - Solve 300+ LeetCode problems
+  - Solve 500+ LeetCode problems
   - Ship impactful full-stack apps
   - Contribute to Open Source
 ```
@@ -54,54 +54,66 @@ Goals_2026:
 
 </div>
 
+<br>
+
 ### 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**⭐ [DevSync](https://github.com/HarshAwasth-i/DevSync)**
-Full-stack Trello/Jira-style project management platform with JWT auth, Kanban board, and an analytics dashboard.
-`React` `Node.js` `Express` `MySQL` `JWT`
-[Live Demo](https://dev-sync-roan.vercel.app)
+#### ⭐ [DevSync](https://github.com/HarshAwasth-i/DevSync)
 
-</td>
-<td width="50%" valign="top">
+Full-stack Trello/Jira-style project management platform for teams to organize projects, track tasks, and monitor progress through an interactive dashboard.
 
-**⭐ [Job Portal](https://github.com/HarshAwasth-i/Job-portal)**
-Full-stack recruitment platform where seekers browse listings and manage profiles end-to-end.
-`React` `Node.js` `Express` `MySQL` `JWT`
-[Live Demo](https://job-portal-drab-xi.vercel.app/)
+**Stack:** `React` · `Node.js` · `Express` · `MySQL` · `JWT` · `Tailwind CSS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Highlights:** 🔐 JWT Auth &nbsp;|&nbsp; 📊 Dashboard Analytics &nbsp;|&nbsp; 📋 Kanban Board &nbsp;|&nbsp; 🔔 Activity Timeline
 
-**🧠 [AI Resume Analyzer](https://github.com/HarshAwasth-i/Resume_Analyzer)**
-NLP-powered tool that scores resumes against job descriptions for ATS fit and flags missing skills.
-`Python` `Flask` `NLP` `spaCy` `TF-IDF`
-[Live Demo](https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/)
+🔗 [Live Demo](https://dev-sync-roan.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/DevSync)
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**📊 [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)**
-Privacy-first Instagram analytics dashboard that turns your export data into a "wrapped"-style summary.
-`React` `TypeScript`
+#### ⭐ [Job Portal](https://github.com/HarshAwasth-i/Job-portal)
 
-</td>
-</tr>
-</table>
+Full-stack recruitment platform enabling job seekers to browse listings and securely manage their profiles end-to-end.
+
+**Stack:** `React` · `Node.js` · `Express` · `MySQL` · `JWT` · `Tailwind CSS`
+
+**Highlights:** 🔐 Auth & Protected Dashboard &nbsp;|&nbsp; 💼 Job Listings & Details &nbsp;|&nbsp; 🔗 REST API Integration
+
+🔗 [Live Demo](https://job-portal-drab-xi.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/Job-portal)
+
+<br>
+
+#### 🧠 [AI Resume Analyzer](https://github.com/HarshAwasth-i/Resume_Analyzer)
+
+An NLP-powered tool that scores resumes against job descriptions for ATS compatibility and flags missing skills.
+
+**Stack:** `Python` · `Flask` · `React` · `NLP` · `TF-IDF` · `spaCy`
+
+**Highlights:** 🎯 ATS Score Prediction &nbsp;|&nbsp; 🧠 Skill Extraction &nbsp;|&nbsp; 💡 Improvement Suggestions
+
+🔗 [Live Demo](https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/Resume_Analyzer)
+
+<br>
+
+#### 📊 [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
+
+A privacy-first Instagram analytics dashboard that turns your own export data into a "wrapped"-style yearly summary.
+
+**Stack:** `React` · `TypeScript`
+
+🔗 [Repository](https://github.com/HarshAwasth-i/instagram-wrapped)
+
+<br>
 
 ### 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=cfcfcf&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshAwasth-i&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=cfcfcf&text_color=c9c9c9&cache_seconds=86400" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAwasth-i&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=cfcfcf&currStreakLabel=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAwasth-i&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9&cache_seconds=86400" width="60%" />
 
 </div>
 
@@ -117,8 +129,8 @@ Privacy-first Instagram analytics dashboard that turns your export data into a "
 
 <div align="center">
 
-⭐ If you like my work, consider starring the repos — thanks for stopping by!
+⭐ **If you like my work, consider starring the repos — thanks for stopping by!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:4a4a4a&height=150&section=footer&text=See%20you%20around!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
