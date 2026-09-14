@@ -32,7 +32,7 @@ Currently_learning:
 
 Goals_2026:
   - Land a Software Developer role
-  - Solve 500+ LeetCode problems
+  - Solve 300+ LeetCode problems
   - Ship impactful full-stack apps
   - Contribute to Open Source
 ```
