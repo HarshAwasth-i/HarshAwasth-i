@@ -110,7 +110,7 @@ A privacy-first Instagram analytics dashboard that turns your own export data in
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAwasth-i&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=HarshAwasth-i&theme=tokyonight&hide_border=true&v=1" width="60%" />
 
 </div>
 
