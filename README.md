@@ -73,7 +73,7 @@ Full-stack project management platform inspired by tools like Trello and Jira, a
 
 <br>
 
-#### #### ⭐ [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
+ #### ⭐ [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
 
 Privacy-first analytics dashboard that transforms a user's Instagram export data into an interactive "Wrapped"-style yearly summary with insights across connections, messages, likes, content, activity, and personality.
 
