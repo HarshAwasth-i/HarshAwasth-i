@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Harsh%20Awasthi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
@@ -17,13 +17,13 @@
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
 ```yaml
 Name: Harsh Awasthi
 Currently: Final-Year B.Tech Student, Computer Science & Engineering (KIIT)
 Status: Seeking Software Developer (SDE) opportunities
-Focus: Full-Stack Development · System Design
+Focus: Full-Stack Development · Problem Solving · System Design
 
 Currently_learning:
   - System Design
@@ -33,7 +33,7 @@ Currently_learning:
 Goals_2026:
   - Land a Software Developer role
   - Solve 300+ LeetCode problems
-  - Ship impactful full-stack apps
+  - Build scalable full-stack applications
   - Contribute to Open Source
 ```
 
@@ -45,6 +45,7 @@ Goals_2026:
 ![Java](https://img.shields.io/badge/-Java-414868?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-414868?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414868?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-414868?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-414868?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-414868?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-414868?style=flat-square&logo=express&logoColor=white)
@@ -62,47 +63,37 @@ Goals_2026:
 
 #### ⭐ [DevSync](https://github.com/HarshAwasth-i/DevSync)
 
-Full-stack Trello/Jira-style project management platform for teams to organize projects, track tasks, and monitor progress through an interactive dashboard.
+Full-stack project management platform inspired by tools like Trello and Jira, allowing teams to organize projects, manage tasks, and track progress through an interactive dashboard.
 
 **Stack:** `React` · `Node.js` · `Express` · `MySQL` · `JWT` · `Tailwind CSS`
 
-**Highlights:** 🔐 JWT Auth &nbsp;|&nbsp; 📊 Dashboard Analytics &nbsp;|&nbsp; 📋 Kanban Board &nbsp;|&nbsp; 🔔 Activity Timeline
+**Highlights:** 🔐 JWT Authentication &nbsp;|&nbsp; 📊 Dashboard Analytics &nbsp;|&nbsp; 📋 Kanban Board &nbsp;|&nbsp; 🔔 Activity Timeline
 
-🔗 [Live Demo](https://dev-sync-roan.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/DevSync)
+🔗 [Live Demo](https://dev-sync-roan.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/DevSync)
+
+<br>
+
+#### ⭐ [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
+
+Privacy-first analytics dashboard that transforms a user's Instagram export data into an interactive "Wrapped"-style yearly summary with insights across connections, messages, likes, content, activity, and personality.
+
+**Stack:** `React` · `TypeScript` · `JavaScript` · `Data Analytics`
+
+**Highlights:** 📊 Personal Analytics &nbsp;|&nbsp; 💬 Message Insights &nbsp;|&nbsp; ❤️ Engagement Analysis &nbsp;|&nbsp; 👥 Connection Analytics &nbsp;|&nbsp; 🎯 Activity Trends
+
+🔗 [Repository](https://github.com/HarshAwasth-i/instagram-wrapped)
 
 <br>
 
 #### ⭐ [Job Portal](https://github.com/HarshAwasth-i/Job-portal)
 
-Full-stack recruitment platform enabling job seekers to browse listings and securely manage their profiles end-to-end.
+Full-stack recruitment platform enabling job seekers to browse job listings, view detailed opportunities, and securely manage their profiles through an authenticated dashboard.
 
 **Stack:** `React` · `Node.js` · `Express` · `MySQL` · `JWT` · `Tailwind CSS`
 
-**Highlights:** 🔐 Auth & Protected Dashboard &nbsp;|&nbsp; 💼 Job Listings & Details &nbsp;|&nbsp; 🔗 REST API Integration
+**Highlights:** 🔐 Authentication & Protected Dashboard &nbsp;|&nbsp; 💼 Job Listings & Details &nbsp;|&nbsp; 🔗 REST API Integration
 
 🔗 [Live Demo](https://job-portal-drab-xi.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/Job-portal)
-
-<br>
-
-#### 🧠 [AI Resume Analyzer](https://github.com/HarshAwasth-i/Resume_Analyzer)
-
-An NLP-powered tool that scores resumes against job descriptions for ATS compatibility and flags missing skills.
-
-**Stack:** `Python` · `Flask` · `React` · `NLP` · `TF-IDF` · `spaCy`
-
-**Highlights:** 🎯 ATS Score Prediction &nbsp;|&nbsp; 🧠 Skill Extraction &nbsp;|&nbsp; 💡 Improvement Suggestions
-
-🔗 [Live Demo](https://resumeanalyzer-snmgwevjwbjtl4nk36379p.streamlit.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/Resume_Analyzer)
-
-<br>
-
-#### 📊 [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
-
-A privacy-first Instagram analytics dashboard that turns your own export data into a "wrapped"-style yearly summary.
-
-**Stack:** `React` · `TypeScript`
-
-🔗 [Repository](https://github.com/HarshAwasth-i/instagram-wrapped)
 
 <br>
 
