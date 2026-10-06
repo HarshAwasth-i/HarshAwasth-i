@@ -42,8 +42,6 @@ Goals_2026:
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-414868?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-414868?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-414868?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414868?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-414868?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-414868?style=flat-square&logo=react&logoColor=white)
