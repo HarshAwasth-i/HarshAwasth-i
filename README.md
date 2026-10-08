@@ -5,7 +5,7 @@
 <a href="https://github.com/HarshAwasth-i">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&background=00000000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Full-Stack+Developer+%7C+MERN;Final-Year+CSE+Student+%40+KIIT;Open+to+SDE+Opportunities+2026" />
 </a>
-
+   
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-414868?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-awasthi-181761331)
