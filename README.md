@@ -50,7 +50,7 @@ Goals_2026:
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-414868?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-414868?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-414868?style=flat-square&logo=git&logoColor=white)
-
+ 
 </div>
 
 <br>
