@@ -68,7 +68,7 @@ Full-stack project management platform inspired by tools like Trello and Jira, a
 **Highlights:** 🔐 JWT Authentication &nbsp;|&nbsp; 📊 Dashboard Analytics &nbsp;|&nbsp; 📋 Kanban Board &nbsp;|&nbsp; 🔔 Activity Timeline
 
 🔗 [Live Demo](https://dev-sync-roan.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/HarshAwasth-i/DevSync)
-
+ 
 <br>
 
  #### ⭐ [Instagram Wrapped](https://github.com/HarshAwasth-i/instagram-wrapped)
