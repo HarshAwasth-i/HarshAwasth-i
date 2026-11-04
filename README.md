@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-414868?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshawasthi2023@gmail.com)
 
 </div>
-
+ 
 ---
 
 ### 👨‍💻 About Me
